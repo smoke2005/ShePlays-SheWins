@@ -6,7 +6,7 @@
 
 ## 📁 Repository Notice
 
-This repository contains **only the core C# script files** used in the development of the GAIA PROTOCOL project.
+This repository contains **only the core C# script files** used in the development of the GAIA's TRIAL project.
 
 Due to platform limitations, the **complete Unity project including assets, scenes, models, and build files** could not be uploaded. The full project contains large 3D models, textures, animations, and other asset files that significantly exceed repository size constraints.
 
