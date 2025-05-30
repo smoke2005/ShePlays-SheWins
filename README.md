@@ -14,10 +14,15 @@ Due to platform limitations, the **complete Unity project including assets, scen
 
 ## 📂 Included
 
-- `GaiaManager.cs` – Manages narrative flow and level transitions  
-- `PuzzleManager.cs` – Handles puzzle logic and completion state  
-- `InventorySystem.cs` – Tracks and manages player tools and items  
-- `DialogueSystem.cs` – Displays in-game scrolls and Gaia messages  
+- `ChoiceSequenceManager.cs` – Controls ordered user choices and consequences in puzzles  
+- `CrossUniverse.cs` – Handles transitions between different themed worlds/zones  
+- `CrossHome.cs` – Manages logic specific to returning to the main hub (living room) 
+- `CrossPlatformSceneLoader.cs` – Detects platform and loads appropriate build (WebGL/VR)  
+- `SlideDrop.cs` – Enables puzzle interactions like placing or sliding objects  
+- `Teleporter.cs` – Manages player teleportation mechanics between room zones  
+- `ObjectCollision.cs` – Triggers events upon collision with interactive objects  
+- `ObjectDisappearance.cs` – Controls visibility or removal of objects upon interaction  
+- `PlatformSwitcher.cs` – Adapts controls/UI for Meta Quest or WebGL platforms
 - Other helper scripts for interaction, animation triggers, and environmental feedback
 
 ---
