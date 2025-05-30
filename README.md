@@ -1,4 +1,4 @@
-# 🌍 GAIA PROTOCOL – VR Escape Room for Environmental Sustainability
+# 🌍 GAIA's TRIAL : THE FINAL HOUR – VR Escape Room for Environmental Sustainability
 
 **A cross-platform immersive experience built using Unity, designed to educate and engage users on key Sustainable Development Goals (SDGs) through interactive escape room gameplay.**
 
